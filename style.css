@@ -1,0 +1,72 @@
+*
+{
+margin: 0;
+padding: 0;
+}
+
+body{
+height: 730px;
+background-color: rgba(0, 0, 0, 0.716);
+}
+
+
+.main
+{
+margin-top: 300px;
+background-color: rgb(36, 35, 35);
+color: white;
+display: flex;
+flex-direction: column;
+justify-content: center;
+height: 200px;
+}
+
+.box1
+{
+margin: 6px;
+display: flex;
+gap: 20px;
+background-color: rgb(20, 17, 17);
+text-align: center;
+}
+
+.box2
+{
+margin: 5px;
+display: flex;
+gap: 10px;
+background-color: rgb(20, 17, 17);
+text-align: center;
+}
+.box3
+{
+margin: 3px;
+display: flex;
+gap: 20px;
+background-color: rgb(20, 17, 17);
+text-align: center;
+}
+
+.status 
+{
+color: greenyellow;
+text-align: center;
+}
+
+.status1 
+{
+color: greenyellow;
+text-align: center;
+}
+
+.status2 
+{
+color: greenyellow;
+text-align: center;
+}
+
+
+.main input{
+background: none;
+color: white;
+}
